@@ -1,2 +1,3 @@
 # SQL-Problem-Solving
-Problem solving strategies in SQL
+This repository contains the following SQL code:
+* Code to read and filter data from an online components store.
